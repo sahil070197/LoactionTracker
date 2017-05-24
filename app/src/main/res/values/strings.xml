@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoactionTracker</string>
+    <string name="STOP_BUTTON_TEXT">Stop</string>
+    <string name="START_BUTTON_TEXT">Start</string>
+</resources>

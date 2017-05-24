@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "144824542783",
+    "firebase_url": "https://loactiontracker-51099.firebaseio.com",
+    "project_id": "loactiontracker-51099",
+    "storage_bucket": "loactiontracker-51099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144824542783:android:629ebc5782dde91c",
+        "android_client_info": {
+          "package_name": "sahil.loactiontracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144824542783-df64ke56746ujhviqsbngvitra85cleh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sahil.loactiontracker",
+            "certificate_hash": "a19c9ca7f1c6c9b6abaf99970f9ff3053a84344f"
+          }
+        },
+        {
+          "client_id": "144824542783-sues2in2ibte4sju223otn2n57n7tmad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-1TqX4RVdJ03VBLudMzkfiiSXNRU89Ro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144824542783-sues2in2ibte4sju223otn2n57n7tmad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
